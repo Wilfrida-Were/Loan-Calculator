@@ -1,4 +1,4 @@
-"""The code calculates the total balance in a case with multiple loan repayments on specific days
+"""The code calculates the total balance in a case with multiple loan repayments on specific default days
 The parameters are:
 loan_balance = loan balance RIGHT BEFORE the default days start
 num_days = number of default days
